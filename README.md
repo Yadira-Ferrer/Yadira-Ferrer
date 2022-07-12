@@ -1,121 +1,36 @@
-<!-- Title -->
-<h1 align="center">Hello World 
-  <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" 
-       width="30px">
-  </h2></h1>
+![](me.gif)
 
+*"When action grows unprofitable, gather information; when information grows unprofitable, sleep."*
+― **Ursula K. LeGuin,** [The Left Hand of Darkness](https://www.goodreads.com/work/quotes/817527)
 
-<!-- Quote -->
-<p align="center">I would like to change the World but they won't give me the source code
-  
-  <!-- Social Network -->
-<h1 align="center">
-<a href="https://www.instagram.com/lunox.code/">
-  <img align="center" 
-       alt="Lunox's Instagram" 
-       width="22px" 
-       src="https://user-images.githubusercontent.com/55005374/103146167-0b04ac00-470b-11eb-84fc-db4b7299e4ef.png" />
-  </a>
-  
-<a href="https://www.linkedin.com/in/lunox/">
-  <img align="center" 
-       alt="Linkdein" 
-       width="22px" 
-       src="https://user-images.githubusercontent.com/55005374/103146171-312a4c00-470b-11eb-8839-992580bb8206.png" />
-  </a>
+### Technologies and Tools
 
-  <a href="https://www.codegrepper.com/app/profile.php?id=79189">
-  <img align="center" 
-       alt="Grepper" 
-       width="22px" 
-       src="https://user-images.githubusercontent.com/55005374/103146498-0b537600-4710-11eb-949e-bff2c2ab7391.png" />
-  </a>
-  
-<a href="https://stackoverflow.com/users/12381868/lunox?tab=profile">
-  <img align="center" 
-       alt="Stack Overflow" 
-       width="22px" 
-       src="https://user-images.githubusercontent.com/55005374/103146236-e52bd700-470b-11eb-861e-e6f549b02b88.png" />
-  </a>
-  
-<a href="mailto:lunox.code@gmail.com">
-  <img align="center" 
-       alt="Gmail" 
-       width="22px" 
-       src="https://user-images.githubusercontent.com/55005374/103146250-0d1b3a80-470c-11eb-8ead-a92232d45d6e.png" />
-  </a>
-</h1>
+##### 𝙿𝚛𝚘𝚐𝚛𝚊𝚖𝚖𝚒𝚗𝚐 𝙻𝚊𝚗𝚐𝚞𝚊𝚐𝚎𝚜
 
+![JavaScript](https://img.shields.io/static/v1?label=&message=JavaScript&color=black&logo=JavaScript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/TypeScript-black?logo=TypeScript&logoColor=%233178C6)![Go](https://img.shields.io/badge/Go-black?logo=Go&logoColor=%2300ADD8)![Python](https://img.shields.io/badge/Python-black?logo=Python&logoColor=%233776AB)![Java](https://img.shields.io/badge/Java-black)
 
+##### 𝙵𝚛𝚘𝚗𝚝𝚎𝚗𝚍 𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚖𝚎𝚗𝚝
 
+![Angular](https://img.shields.io/badge/Angular-black?logo=Angular&logoColor=%23DD0031)![HTML5](https://img.shields.io/badge/HTML5-black?logo=HTML5&logoColor=%23E34F26)![CSS3](https://img.shields.io/badge/CSS3-black?logo=CSS3&logoColor=%231572B6)![Bootstrap](https://img.shields.io/badge/Bootstrap-black?logo=Bootstrap&logoColor=%237952B3)
 
-<!-- Background -->
+##### 𝙱𝚊𝚌𝚔𝚎𝚗𝚍 𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚖𝚎𝚗𝚝
 
-<!-- I do add this "&nbsp;" because I can't center the GIFT, let me know if you know how do it -->
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-![ezgif com-gif-maker](https://user-images.githubusercontent.com/55005374/95673501-37764680-0b66-11eb-8ee1-d4f4a2b285d9.gif)
+![Node.js](https://img.shields.io/badge/Node.js-black?logo=Node.js&logoColor=%23339933)![Express](https://img.shields.io/badge/Express-black?logo=Express&logoColor=%23FFFFFF)![Flask](https://img.shields.io/badge/Flask-black?logo=Flask&logoColor=%23FFFFFF)
 
-&nbsp;
+##### 𝙼𝚘𝚋𝚒𝚕𝚎 𝙰𝚙𝚙 𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚖𝚎𝚗𝚝
 
-<!-- Technical Skills -->
-<p><H3 align="center"><strong> Technical Skills: 💻 </strong></p>
-  
-  <code><img height="40" src="https://user-images.githubusercontent.com/55005374/101125531-160e6580-35bf-11eb-8256-f599b154f3ee.png"></code>
-  <code><img height="40" src="https://user-images.githubusercontent.com/55005374/103146278-8ca90980-470c-11eb-90bd-8e20951c9146.png"></code>
-  <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg"></code>
-  <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-  <code><img height="40" src="https://user-images.githubusercontent.com/55005374/103146298-d98ce000-470c-11eb-973d-3ff9e1b90561.png"></code>
-  <code><img height="40" src="https://user-images.githubusercontent.com/55005374/103146335-3d170d80-470d-11eb-9fce-ff775c77b96b.png"></code>
-  <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
-  <code><img height="40" src="https://user-images.githubusercontent.com/55005374/103146218-b57ccf00-470b-11eb-8fcc-aa46cab9253f.png"></code>
-  <code><img height="40" src="https://user-images.githubusercontent.com/55005374/95688411-345f7280-0bc7-11eb-9513-82e0452a81eb.png"></code>
-  <code><img height="40" src="https://user-images.githubusercontent.com/55005374/100307358-3c068b00-2f6b-11eb-9f07-e262ad248471.png"></code>
-  <code><img height="40" src="https://user-images.githubusercontent.com/55005374/95686171-87cac400-0bb9-11eb-9d49-390f3543a0a6.png"></code>
-  <code><img height="40" src="https://user-images.githubusercontent.com/55005374/95686553-d4170380-0bbb-11eb-94f2-c528413c7bad.png"></code>
-  <code><img height="40" src="https://user-images.githubusercontent.com/55005374/95686705-d9c11900-0bbc-11eb-87f5-a149b86cde5a.png"></code>
-  <code><img height="40" src="https://user-images.githubusercontent.com/55005374/95686779-5fdd5f80-0bbd-11eb-9a0b-8eb90d565518.png"></code>
-  <code><img height="40" src="https://user-images.githubusercontent.com/55005374/95687393-a2546b80-0bc0-11eb-8991-c0c72326f29c.png"></code>
-  <code><img height="40" src="https://user-images.githubusercontent.com/55005374/95687569-95844780-0bc1-11eb-8bdb-93fb29d10602.png"></code>
-  <code><img height="40" src="https://user-images.githubusercontent.com/55005374/95687639-117e8f80-0bc2-11eb-8aea-f236a8eca50b.png"></code>
-  <code><img height="40" src="https://user-images.githubusercontent.com/55005374/95687670-51de0d80-0bc2-11eb-826b-83fb8c5ec221.png"></code>
-  <code><img height="40" src="https://user-images.githubusercontent.com/55005374/100187906-b7eecd80-2eae-11eb-8074-b65db8dfaecb.png"></code>
-  <code><img height="40" src="https://user-images.githubusercontent.com/55005374/95687701-80f47f00-0bc2-11eb-89f5-a1a8e6788aeb.png"></code>
-  <code><img height="40" src="https://user-images.githubusercontent.com/55005374/95688226-c6ff1200-0bc5-11eb-82cc-33e35bcb0910.png"></code>
-  <code><img height="40" src="https://user-images.githubusercontent.com/55005374/95688875-5dcdcd80-0bca-11eb-8915-b3cf9791ca3c.png"></code>
+![Ionic](https://img.shields.io/badge/Ionic-black?logo=Ionic&logoColor=%233880FF)
 
-  </p>
-  
-&nbsp;  
+##### 𝙳𝚊𝚝𝚊𝚋𝚊𝚜𝚎
 
-  <!-- Skills to learn -->
-<p><H3 align="center"><strong>Skills to learn: 🌐</strong></p>
-  
-  <code><img height="40" src="https://user-images.githubusercontent.com/55005374/101125928-05122400-35c0-11eb-836b-4c2e4de16070.png"></code>
-  <code><img height="40" src="https://user-images.githubusercontent.com/55005374/99864609-ecd6e980-2b69-11eb-8268-1a455c00eefe.png"></code>
-  <code><img height="40" src="https://user-images.githubusercontent.com/55005374/99864949-fbbe9b80-2b6b-11eb-8b5a-4ca8cd68261e.png"></code>  
-  <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code> 
-  <code><img height="40" src="https://user-images.githubusercontent.com/55005374/95688807-0d567000-0bca-11eb-8cec-9a813166d3d8.png"></code>
-  <code><img height="40" src="https://user-images.githubusercontent.com/55005374/95686219-bd6fad00-0bb9-11eb-9dfd-be7dd980d005.png"></code>
-  
-  </p>
-&nbsp;
+![MongoDB](https://img.shields.io/badge/MongoDB-black?logo=MongoDB&logoColor=%2347A248)![MySQL](https://img.shields.io/badge/MySQL-black?logo=MySQL&logoColor=%234479A1)![PostgreSQL](https://img.shields.io/badge/PostgreSQL-black?logo=PostgreSQL&logoColor=%234169E1)
 
-<!-- GitHub Stats -->
-<H2 align="center"><strong>GitHub Statistics: 📈
-  </strong>
-</H2>
-    <p align="center">
-      <div align="center">
-    </p>
-    
-<a href="https://github.com/Lunox-code?tab=repositories">
-  <img align="center" 
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lunox-code&layout=compact&show_icons=true&title_color=81a1c0&icon_color=79ff97&text_color=d5dbe6&bg_color=2e3440" 
-       alt='Lunox's favorite languages" />
-</a>
-  
-<a href="https://github.com/Lunox-code">
-  <img align="center"
-       src="https://github-readme-stats.vercel.app/api?username=Lunox-code&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=nord" />
-</a>
+##### 𝙾𝚝𝚑𝚎𝚛𝚜
 
+![Amazon AWS](https://img.shields.io/badge/Amazon_AWS-black?logo=Amazon+AWS&logoColor=%23FF9900)![Docker](https://img.shields.io/badge/Docker-black?logo=Docker&logoColor=%232496ED)![Postman](https://img.shields.io/badge/Postman-black?logo=Postman&logoColor=%23FF6C37)![Figma](https://img.shields.io/badge/Figma-black?logo=Figma&logoColor=%239999FF) ![JSON Web Tokens](https://img.shields.io/badge/JSON_Web_Tokens-black?logo=JSON+Web+Tokens&logoColor=%23B7178C)![Git](https://img.shields.io/badge/Git-black?logo=Git&logoColor=%23F05032)
+
+---
+
+### What I am currently learning / improving on
+
+![React](https://img.shields.io/badge/React-black?logo=React&logoColor=%2361DAFB)![ReactiveX](https://img.shields.io/badge/ReactiveX-black?logo=ReactiveX&logoColor=%23B7178C)![C Sharp](https://img.shields.io/badge/C_Sharp-black?logo=C+Sharp&logoColor=%23512BD4)
